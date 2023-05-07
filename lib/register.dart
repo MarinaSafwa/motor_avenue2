@@ -28,6 +28,7 @@ class register extends StatelessWidget {
             Color.fromRGBO(208, 196, 153, 0.7058823529411765),
           ],
         ),
+
       ),
       ///////////////////////////////logoo image/////////////////////////////////////
       child: Center(
